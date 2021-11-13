@@ -1,0 +1,40 @@
+Install script for CloudBot VPS
+	- setup debian dependencies
+	- clone cloudbot repository
+	- autoconfig
+		- auto-add self to MainBot database cluster
+		- laravel / mysql db
+	
+	
+Setup algorithms on MainBot to deal with CloudBot "botnet" cluster.
+	- improved algorithm for picking "most available" cloudbot for different actions
+	- yandex bot algorithm for converting driveID's into yandex links
+		- individual yandex account algo for tracking / udpating usage stats (can't go over 10GB)
+		- batching algo
+		- cloudbot notification of completed upload to MainBot
+		
+		
+		
+		
+		
+----- CodeBuilder To-Do -----
+PDF Invoice Generation Controller
+Test Stripe Payment Processing
+Test PayPal payment processing (IPN)
+Success message after payment.
+add payments table to interface
+	- admin interface
+	- customer invoice modal
+Gulp.JS Minifcation / Concatenation of all CSS & JS Files.
+Download any 3rd party fonts / scripts / etc...
+Compress MP4 files for faster loading
+Make sure pre-render cover images for videos are correct (lazy-loading)
+Section on bottom of about us page.
+Small Business Packages Finalization & Terms of Service Docs
+Newsletter email form on bottom of services & contact us page.
+Remove + marks on portfolio popups (or better yet, write descriptions for each one)
+Determine FAQ list + answers; Update FAQ interface; Complete contact us form;
+Mobile phone testing of website.
+
+(Optional)
+Server Images from CDN sub-domain without cookies.

@@ -1,0 +1,112 @@
+==================================================================
+https://keybase.io/digitalnomad91
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://codebuilder.us
+  * I am digitalnomad91 (https://keybase.io/digitalnomad91) on keybase.
+  * I have a public key ASAOkl70w-_61f_i-1tSfBjPq1ngDGXF7xiodp03RPELVwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206c5c9f4622eccb52092dc672f894296db6d37ceef6138f11dd3ddd0d7e559b1b0a",
+      "host": "keybase.io",
+      "kid": "01200e925ef4c3effad5ffe2fb5b527c18cfab59e00c65c5ef18a8769d3744f10b570a",
+      "uid": "3d392aa1bac85e716f3919cf59e83f19",
+      "username": "digitalnomad91"
+    },
+    "merkle_root": {
+      "ctime": 1507153600,
+      "hash": "4f301c1fb7121f2d21ea713e085d13214931606a0dab289e7d418c83ca181a72d365cc1b63ee3553397911d9e7c69b69bb5abfdbb3868979ace1ee8cd8ea0b30",
+      "hash_meta": "47ca905af87979b7d719ddf8507534f6ff3051955e9bb21f0c6daea0a8aacff2",
+      "seqno": 1501389
+    },
+    "service": {
+      "hostname": "codebuilder.us",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507153624,
+  "expire_in": 504576000,
+  "prev": "ec31f5da4fa815446818461f9453b1dd342b2cc7786d493afefc9955123a92d7",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDpJe9MPv+tX/4vtbUnwYz6tZ4Axlxe8YqHadN0TxC1cKp3BheWxvYWTFA0x7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNmM1YzlmNDYyMmVjY2I1MjA5MmRjNjcyZjg5NDI5NmRiNmQzN2NlZWY2MTM4ZjExZGQzZGRkMGQ3ZTU1OWIxYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGU5MjVlZjRjM2VmZmFkNWZmZTJmYjViNTI3YzE4Y2ZhYjU5ZTAwYzY1YzVlZjE4YTg3NjlkMzc0NGYxMGI1NzBhIiwidWlkIjoiM2QzOTJhYTFiYWM4NWU3MTZmMzkxOWNmNTllODNmMTkiLCJ1c2VybmFtZSI6ImRpZ2l0YWxub21hZDkxIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA3MTUzNjAwLCJoYXNoIjoiNGYzMDFjMWZiNzEyMWYyZDIxZWE3MTNlMDg1ZDEzMjE0OTMxNjA2YTBkYWIyODllN2Q0MThjODNjYTE4MWE3MmQzNjVjYzFiNjNlZTM1NTMzOTc5MTFkOWU3YzY5YjY5YmI1YWJmZGJiMzg2ODk3OWFjZTFlZThjZDhlYTBiMzAiLCJoYXNoX21ldGEiOiI0N2NhOTA1YWY4Nzk3OWI3ZDcxOWRkZjg1MDc1MzRmNmZmMzA1MTk1NWU5YmIyMWYwYzZkYWVhMGE4YWFjZmYyIiwic2Vxbm8iOjE1MDEzODl9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiY29kZWJ1aWxkZXIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zMyJ9LCJjdGltZSI6MTUwNzE1MzYyNCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJlYzMxZjVkYTRmYTgxNTQ0NjgxODQ2MWY5NDUzYjFkZDM0MmIyY2M3Nzg2ZDQ5M2FmZWZjOTk1NTEyM2E5MmQ3Iiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAogBmMLtOF0OAwLqfSCYgmr7Kg1OvLBBnAyPRPvlskcK+eb6HPpejfCc7qyqK7NeCnnypeq+znFFAo7uQC6LUDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM+Sqtkjhl4cgKcyh5z9BeuClKHzSA3f8kxzLKMYUzcuo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/digitalnomad91
+
+==================================================================
+ 
+==================================================================
+https://keybase.io/kstigs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://codebuilder.us
+  * I am kstigs (https://keybase.io/kstigs) on keybase.
+  * I have a public key ASASzVPr0mXvQA_MN83rI4fQIUPHXzBngShDJLqsJT7e-Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012012cd53ebd265ef400fcc37cdeb2387d02143c75f306781284324baac253edef80a",
+      "host": "keybase.io",
+      "kid": "012012cd53ebd265ef400fcc37cdeb2387d02143c75f306781284324baac253edef80a",
+      "uid": "d1a3f840355d8de5440493d461911d19",
+      "username": "kstigs"
+    },
+    "merkle_root": {
+      "ctime": 1507161732,
+      "hash": "6619a62c5bf3a8e09855e3d1ad4aeaa17a024eb99b6ccfab85f669f43dd9b2417c377c78f7f03704295fc92644439b2e98be43bf9be1d30ee7137b63a7adf50b",
+      "hash_meta": "cb817c9620c18a48f092c2f8fa2ad30fa8bf83ab978611b8eb02c55e8ae60b39",
+      "seqno": 1503241
+    },
+    "service": {
+      "hostname": "codebuilder.us",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507161780,
+  "expire_in": 504576000,
+  "prev": "2b17fc7905c51cc6a07d8bcf7fb14404fb619e4c3b4304d995247a74c5a5792a",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEs1T69Jl70APzDfN6yOH0CFDx18wZ4EoQyS6rCU+3vgKp3BheWxvYWTFA0V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMTJjZDUzZWJkMjY1ZWY0MDBmY2MzN2NkZWIyMzg3ZDAyMTQzYzc1ZjMwNjc4MTI4NDMyNGJhYWMyNTNlZGVmODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTJjZDUzZWJkMjY1ZWY0MDBmY2MzN2NkZWIyMzg3ZDAyMTQzYzc1ZjMwNjc4MTI4NDMyNGJhYWMyNTNlZGVmODBhIiwidWlkIjoiZDFhM2Y4NDAzNTVkOGRlNTQ0MDQ5M2Q0NjE5MTFkMTkiLCJ1c2VybmFtZSI6ImtzdGlncyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNzE2MTczMiwiaGFzaCI6IjY2MTlhNjJjNWJmM2E4ZTA5ODU1ZTNkMWFkNGFlYWExN2EwMjRlYjk5YjZjY2ZhYjg1ZjY2OWY0M2RkOWIyNDE3YzM3N2M3OGY3ZjAzNzA0Mjk1ZmM5MjY0NDQzOWIyZTk4YmU0M2JmOWJlMWQzMGVlNzEzN2I2M2E3YWRmNTBiIiwiaGFzaF9tZXRhIjoiY2I4MTdjOTYyMGMxOGE0OGYwOTJjMmY4ZmEyYWQzMGZhOGJmODNhYjk3ODYxMWI4ZWIwMmM1NWU4YWU2MGIzOSIsInNlcW5vIjoxNTAzMjQxfSwic2VydmljZSI6eyJob3N0bmFtZSI6ImNvZGVidWlsZGVyLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDcxNjE3ODAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMmIxN2ZjNzkwNWM1MWNjNmEwN2Q4YmNmN2ZiMTQ0MDRmYjYxOWU0YzNiNDMwNGQ5OTUyNDdhNzRjNWE1NzkyYSIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAWgWaixgMZHXm+/aV8p4tUhv62Na20XRY5tX8cILdx4vZft4rlZz/m9LPm81D3ty420sHWyo91Bdqt6luNrWYBqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgeuV+0nbFZLVnjM5mEdiUxIGfx8nFTyOdrJO1z1mBYSmjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kstigs
+
+==================================================================
+

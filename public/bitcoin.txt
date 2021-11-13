@@ -1,0 +1,27 @@
+bitcoind installation
+laravel-bitcoin integration
+bitcoin payment backend + database + payment interface
+	- deposits
+	- withdrawals
+	- strict accounting backend
+	- cold + hot wallets
+dota2 tournament API's
+social login (facebook, twitter, twitch, discord)
+tournament interfaces (video? chat/comments? statistics, etc...)
+graphics work (logo, icons, etc..)
+
+
+(Marketing / SEO)
+blog system? PBN? comments? we need content and linkbacks.
+keyword analysis on competitors 
+meta tags, descriptions, etc....
+geurilla marketing on dota2 forums
+referral system w/ paid incentives **** <--- important
+email blast to 90,000 fuge members
+
+(non-mvp)
+forums / other portals?
+real-time interfaces for tournament pages, bets, etc...
+finsih openportl.com comment system interface
+virtual item trading? (is this LoL only?)
+bitcoin broker / exchange for other currencies.
